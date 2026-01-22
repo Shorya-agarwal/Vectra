@@ -68,3 +68,5 @@ Implements a multi-layered skip-list structure where:
 ## 🔮 Future Roadmap
 * Quantization: Implement Product Quantization (PQ) to compress vectors from FP32 to uint8 for 4x memory bandwidth reduction.
 * Prefetching: Add _mm_prefetch instructions to HNSW traversal to hide memory latency during graph hops.
+
+>Shorya Agarwal | Systems Engineer & C++ Developer | MS CE @TAMU  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shoryaag/)
